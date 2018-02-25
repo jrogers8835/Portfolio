@@ -12,5 +12,5 @@ app.get('/', function (req, res) {
 });
 
 app.get('/home', function (req, res) {
-	res.send(index.html);
+	res.sendFile('index.html');
 });
