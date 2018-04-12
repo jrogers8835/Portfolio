@@ -1,0 +1,10 @@
+.headerBar {
+    display: flex;
+    flex: 1 0 auto;
+    justify-content: space-between;
+    height:5vh;
+
+    .separator1 {
+      margin-right: 10px;
+    }
+}

@@ -1,0 +1,19 @@
+import React from 'react';
+import './Main.css';
+export default class Main extends React.Component{
+	render(){
+		return (
+			<div class="main">
+			<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus accumsan orci ex, in tempor orci vehicula ac. Pellentesque faucibus diam sit amet lectus laoreet, non egestas nisi varius. Ut quis urna pretium, facilisis turpis et, gravida risus. Maecenas sit amet quam at diam ullamcorper faucibus eget eget tortor. Aliquam nisi dui, vehicula sit amet lobortis nec, sagittis eu nibh. Sed quis felis at felis auctor viverra. Cras a dapibus erat. Quisque sodales sem non egestas molestie. Duis non mi dignissim, tincidunt ex nec, efficitur eros. In neque leo, malesuada eget libero nec, gravida egestas mi. In varius sem at sagittis vulputate. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Morbi iaculis sapien placerat, commodo urna ut, aliquet orci.
+			</p>
+			<p>Donec nec ultrices arcu. Sed porta augue id ipsum ullamcorper, in tempor odio gravida. Suspendisse tristique ligula nec lacinia tempor. Aliquam viverra, velit quis posuere sodales, lectus tellus fringilla libero, sed commodo sem ex laoreet ipsum. Ut mauris ligula, dapibus vel felis dignissim, efficitur bibendum enim. Pellentesque viverra libero ipsum, eu pharetra urna pharetra eget. In hac habitasse platea dictumst. Maecenas at mattis neque. Phasellus sollicitudin ante quis semper aliquam. Donec lectus erat, rutrum finibus mi quis, finibus mattis risus. Suspendisse tempor faucibus felis, ut pharetra ante efficitur id. Mauris suscipit luctus augue, a convallis quam sodales vel. Morbi dignissim vel elit quis facilisis. Aenean eu tellus vehicula nibh sollicitudin aliquet.
+			</p>
+			<p>Aenean volutpat lectus at sapien fermentum eleifend. Nulla tempus augue in mi viverra, ut viverra lectus tempor. Duis at consequat ipsum. In hendrerit imperdiet leo pulvinar faucibus. Nulla et eros sagittis, consequat lorem ac, euismod metus. Ut ac risus elit. Sed vel orci velit. Quisque ac aliquam purus, eget laoreet tellus.
+			</p>
+			<p>Nam sit amet vestibulum leo, vel convallis leo. Cras ultrices dolor non iaculis scelerisque. Cras lobortis vehicula turpis, sit amet posuere mi fermentum vel. Sed felis diam, fringilla ut hendrerit at, fermentum eu turpis. Curabitur tempus congue erat commodo fringilla. Ut pharetra leo dignissim, pellentesque diam vitae, suscipit lectus. Nam vitae rutrum massa, ut condimentum purus. Nullam elementum sed eros hendrerit luctus. Proin lectus tellus, facilisis in ipsum at, faucibus aliquet lacus. Praesent tempor rhoncus mi vel congue. Integer lacinia laoreet risus, non laoreet lorem pharetra feugiat. Sed facilisis suscipit venenatis. Suspendisse potenti. Nullam ac tristique risus. Maecenas in purus risus. Integer dapibus sed mi eu tempor.
+			</p>
+			<div>Nunc et augue placerat, sodales dolor eu, blandit nunc. Maecenas mollis quis arcu sit amet mattis. Cras et feugiat neque. In mollis augue quis neque accumsan varius. Vivamus eget pretium massa. Donec eget leo aliquet nisl lobortis finibus. Phasellus hendrerit, dui non faucibus vehicula, eros felis iaculis nulla, ac ultricies dolor dui eget justo. Duis tempus nibh et iaculis pellentesque. Mauris velit erat, placerat quis tincidunt et, viverra eget mauris. Quisque blandit enim non dolor feugiat, finibus varius nisl facilisis. Aliquam sem nunc, viverra nec ligula ac, blandit aliquam est. Mauris ornare tellus et ipsum vestibulum.</div>
+		</div>
+		);
+	}
+}
